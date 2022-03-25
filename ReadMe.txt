@@ -1,6 +1,3 @@
-# leuisure_managment_system
-
-
 
 HOW TO RUN THIS PROJECT:
 1. first import given project in eclipe IDE
